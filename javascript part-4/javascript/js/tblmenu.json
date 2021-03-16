@@ -1,0 +1,39 @@
+[
+    {
+        "idmenu": 9,
+        "idkategori": 29,
+        "menu": "apel",
+        "harga": 5000,
+        "warna": [
+            "merah",
+            "kuning",
+            "hijau"
+        ],
+        "stop": true,
+        "keterangan": null
+    },
+    {
+        "idmenu": 10,
+        "idkategori": 29,
+        "menu": "alpukat",
+        "harga": 6000,
+        "warna": [
+            "merah",
+            "kuning"
+        ],
+        "stop": false,
+        "keterangan": null
+    },
+    {
+        "idmenu": 11,
+        "idkategori": 29,
+        "menu": "jeruk",
+        "harga": 5000,
+        "warna": [
+            "merah",
+            "kuning"
+        ],
+        "stop": false,
+        "keterangan": null
+    }
+]
